@@ -1,0 +1,5 @@
+# Runtime dependency (image decoding for the logo and rounded buttons)
+pillow==12.2.0
+
+# Only needed to build the Windows executable
+pyinstaller==6.22.3

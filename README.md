@@ -1,4 +1,4 @@
-# Antares Injection Program
+# Antares Intelligent
 
 > 面向 Windows 的 Codex 与 Claude Code API 配置工具。支持直接输入兼容中转站的 API 基础地址和 API Key，并将配置写入对应的 CLI、Codex 配置文件以及 Claude Desktop 官方第三方推理策略。
 
